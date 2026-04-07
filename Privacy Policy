@@ -1,0 +1,9 @@
+Cookie Rejector — Privacy Policy
+Cookie Rejector does not collect, transmit, or share any personal data.
+What is stored locally:
+A count of declined cookie banners and a list of the last 50 domain names where a banner was declined. This data is stored on your device only using Chrome's local storage API and is never sent anywhere.
+What is not collected:
+No browsing history, page content, personal information, or identifiable data is collected or transmitted.
+Third parties:
+No data is shared with any third party. The extension makes no external network requests.
+Last updated: April 2026
