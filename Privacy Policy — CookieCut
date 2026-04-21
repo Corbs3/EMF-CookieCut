@@ -1,0 +1,37 @@
+# Privacy Policy — CookieCut
+
+**Last updated: April 2026**
+
+## Overview
+
+CookieCut is a Chrome extension that automatically declines non-essential cookies on websites you visit. This policy explains how the extension handles your data.
+
+## Data Collected
+
+CookieCut stores the following data **locally in your browser only**:
+
+- A count of how many cookie banners have been declined
+- A log of the most recent 50 decline events, including the website hostname, the consent platform detected, and the time of the decline
+
+This data is used solely to display stats in the extension popup.
+
+## Data Storage
+
+All data is stored using Chrome's `storage.local` API. It never leaves your browser and is not accessible to any website or third party.
+
+## Data Sharing
+
+No data is collected, transmitted, or shared with any external server, service, or third party.
+
+## Permissions
+
+- **storage** — used to save decline stats locally in your browser
+- **host_permissions (`<all_urls>`)** — required to run the content script on every page so cookie banners can be detected and declined
+
+## Changes to This Policy
+
+This policy may be updated occasionally. The latest version will always be available at this URL.
+
+## Contact
+
+For questions about this extension, open an issue on the GitHub repository.
